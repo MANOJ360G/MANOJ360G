@@ -30,7 +30,10 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <br/>
+<h3 align="left">GitHub Stats 📊</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=prathamagrawal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamagrawal&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
