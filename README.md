@@ -9,6 +9,8 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png" alt="django" width="40" height="40"/> </a>  
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  
 <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png?v=637807957740000000" alt="flask" width="40" height="40"/> </a>
+
+<a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png?v=637807957820000000" alt="flask" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
