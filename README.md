@@ -27,11 +27,19 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)## 💻 Tech Stack :
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 📊 GitHub Stats :
+<div>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=MANOJ360G&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJ360G&theme=shades-of-purple&hide_border=true"/>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJ360G&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+</p>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=MANOJ360G&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 
 
-![](https://github-readme-stats.vercel.app/api?username=MANOJ360G&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJ360G&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
