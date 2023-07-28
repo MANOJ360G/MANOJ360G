@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Hi there, I'm Manoj Gonuguntla 👋
 
 Passionate about leveraging the power of data science and artificial intelligence to drive impactful solutions. I thrive on solving complex problems and uncovering valuable insights through data analysis. My dedication to staying at the forefront of emerging technologies fuels my drive to contribute to innovative projects.
