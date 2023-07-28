@@ -1,4 +1,20 @@
 ### Hi there 👋
+## Hi there, I'm Manoj Gonuguntla 👋
+
+Passionate about leveraging the power of data science and artificial intelligence to drive impactful solutions. I thrive on solving complex problems and uncovering valuable insights through data analysis. My dedication to staying at the forefront of emerging technologies fuels my drive to contribute to innovative projects.
+
+- 🌱 I’m currently exploring advanced techniques in deep learning and neural networks.
+- 🔭 I’m constantly working on personal data science projects to enhance my skills and learn new concepts.
+- 💼 I have hands-on experience in integrating various frameworks and APIs into projects to deliver efficient and effective solutions.
+
+### Skills and Expertise
+
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Natural Language Processing (NLP)
+- Blockchain Technology
 
 ## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
